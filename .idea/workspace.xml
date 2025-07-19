@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="563145e5-53ea-410d-9f21-4b4b6a856dac" name="Changes" comment="Actividad semana 8" />
+    <list default="true" id="563145e5-53ea-410d-9f21-4b4b6a856dac" name="Changes" comment="Actividad semana 8">
+      <change afterPath="$PROJECT_DIR$/Semana 8/dashboard_Organización.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semana 8/Dashboard_copia.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,30 +45,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Dashboard.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ejemplos de Técnicas de Programación (POO).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Porgramación tradicional.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Programa sencillo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Programa.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Programación orientada a objetos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.código.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sistema_escuela.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sistema_tienda.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/LENOVO.USER/PycharmProjects/2525-POO-Yanez-Enoc/Semana 8&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Dashboard.executor": "Run",
+    "Python.Dashboard_copia.executor": "Run",
+    "Python.Ejemplos de Técnicas de Programación (POO).executor": "Run",
+    "Python.Porgramación tradicional.executor": "Run",
+    "Python.Programa sencillo.executor": "Run",
+    "Python.Programa.executor": "Run",
+    "Python.Programación orientada a objetos.executor": "Run",
+    "Python.código.executor": "Run",
+    "Python.dashboard_Organización.executor": "Run",
+    "Python.sistema_escuela.executor": "Run",
+    "Python.sistema_tienda.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/LENOVO.USER/PycharmProjects/2525-POO-Yanez-Enoc/Semana 8",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -94,6 +101,9 @@
       <workItem from="1752712543264" duration="223000" />
       <workItem from="1752713829797" duration="718000" />
       <workItem from="1752714563372" duration="454000" />
+      <workItem from="1752715028328" duration="63000" />
+      <workItem from="1752715101912" duration="1034000" />
+      <workItem from="1752960713970" duration="1531000" />
     </task>
     <task id="LOCAL-00001" summary="Tarea semana 2">
       <option name="closed" value="true" />
@@ -207,13 +217,40 @@
       <option name="project" value="LOCAL" />
       <updated>1752714593051</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Actividad semana 8">
+      <option name="closed" value="true" />
+      <created>1752715076707</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1752715076707</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Actividad semana 8">
+      <option name="closed" value="true" />
+      <created>1752715469353</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1752715469353</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Actividad semana 8">
+      <option name="closed" value="true" />
+      <created>1752715534326</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1752715534326</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Semana 8" />
+    </ignored-roots>
     <MESSAGE value="Tarea semana 2" />
     <MESSAGE value="Tarea semana 3" />
     <MESSAGE value="Tarea de la semana 3" />
@@ -227,6 +264,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$Programa.coverage" NAME="Programa Coverage Results" MODIFIED="1751827709084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 6" />
+    <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$dashboard_Organizacion.coverage" NAME="dashboard_Organización Coverage Results" MODIFIED="1752962369548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 8" />
     <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$Porgramación_tradicional.coverage" NAME="Porgramación tradicional Coverage Results" MODIFIED="1749972310737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 3" />
     <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$código.coverage" NAME="código Coverage Results" MODIFIED="1752335618365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 7" />
     <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$Programación_orientada_a_objetos.coverage" NAME="Programación orientada a objetos Coverage Results" MODIFIED="1749972666864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 3" />
@@ -234,6 +272,7 @@
     <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$sistema_tienda.coverage" NAME="sistema_tienda Coverage Results" MODIFIED="1750568690131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 4 (EjemplosMundoReal_POO)" />
     <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$Ejemplos_de_Técnicas_de_Programación__POO_.coverage" NAME="Ejemplos de Técnicas de Programación (POO) Coverage Results" MODIFIED="1749150167804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 2" />
     <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$sistema_escuela.coverage" NAME="sistema_escuela Coverage Results" MODIFIED="1750293673545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 4 (EjemplosMundoReal_POO)" />
+    <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$Dashboard_copia.coverage" NAME="Dashboard_copia Coverage Results" MODIFIED="1752715514574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 8" />
     <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$Dashboard.coverage" NAME="Dashboard Coverage Results" MODIFIED="1752714958800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 8" />
   </component>
 </project>
