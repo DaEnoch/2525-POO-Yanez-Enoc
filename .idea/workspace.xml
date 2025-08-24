@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="563145e5-53ea-410d-9f21-4b4b6a856dac" name="Changes" comment="Actividad semana 8">
-      <change afterPath="$PROJECT_DIR$/Semana 9_inventario/inventario.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semana 9_inventario/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semana 9_inventario/producto.py" afterDir="false" />
+    <list default="true" id="563145e5-53ea-410d-9f21-4b4b6a856dac" name="Changes" comment="Actividad semana 9">
+      <change afterPath="$PROJECT_DIR$/Semana 10/inventario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semana 10/main_principal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Semana 10/producto.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,7 @@
     &quot;Python.Programación orientada a objetos.executor&quot;: &quot;Run&quot;,
     &quot;Python.código.executor&quot;: &quot;Run&quot;,
     &quot;Python.dashboard_Organización.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_principal.executor&quot;: &quot;Run&quot;,
     &quot;Python.sistema_escuela.executor&quot;: &quot;Run&quot;,
     &quot;Python.sistema_tienda.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -105,7 +106,8 @@
       <workItem from="1752715028328" duration="63000" />
       <workItem from="1752715101912" duration="1034000" />
       <workItem from="1752960713970" duration="2389000" />
-      <workItem from="1755469143397" duration="1023000" />
+      <workItem from="1755469143397" duration="1266000" />
+      <workItem from="1756075024831" duration="968000" />
     </task>
     <task id="LOCAL-00001" summary="Tarea semana 2">
       <option name="closed" value="true" />
@@ -251,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752962504556</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Actividad semana 9">
+      <option name="closed" value="true" />
+      <created>1755472675371</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1755472675371</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,19 +280,21 @@
     <MESSAGE value="Programa de la semana 7" />
     <MESSAGE value="Actividad de la semana 8" />
     <MESSAGE value="Actividad semana 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Actividad semana 8" />
+    <MESSAGE value="Actividad semana 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actividad semana 9" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$Programa.coverage" NAME="Programa Coverage Results" MODIFIED="1751827709084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 6" />
-    <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$dashboard_Organizacion.coverage" NAME="dashboard_Organización Coverage Results" MODIFIED="1752962461337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 8" />
     <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$Porgramación_tradicional.coverage" NAME="Porgramación tradicional Coverage Results" MODIFIED="1749972310737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 3" />
     <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$código.coverage" NAME="código Coverage Results" MODIFIED="1752335618365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 7" />
-    <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$Programación_orientada_a_objetos.coverage" NAME="Programación orientada a objetos Coverage Results" MODIFIED="1749972666864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 3" />
     <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$Programa_sencillo.coverage" NAME="Programa sencillo Coverage Results" MODIFIED="1751060108998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 5" />
     <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$sistema_tienda.coverage" NAME="sistema_tienda Coverage Results" MODIFIED="1750568690131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 4 (EjemplosMundoReal_POO)" />
-    <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$Ejemplos_de_Técnicas_de_Programación__POO_.coverage" NAME="Ejemplos de Técnicas de Programación (POO) Coverage Results" MODIFIED="1749150167804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 2" />
     <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$sistema_escuela.coverage" NAME="sistema_escuela Coverage Results" MODIFIED="1750293673545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 4 (EjemplosMundoReal_POO)" />
     <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$Dashboard_copia.coverage" NAME="Dashboard_copia Coverage Results" MODIFIED="1752715514574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 8" />
+    <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$main_principal.coverage" NAME="main_principal Coverage Results" MODIFIED="1755472642079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 9_inventario" />
+    <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$Programa.coverage" NAME="Programa Coverage Results" MODIFIED="1751827709084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 6" />
+    <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$dashboard_Organizacion.coverage" NAME="dashboard_Organización Coverage Results" MODIFIED="1752962461337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 8" />
+    <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$Programación_orientada_a_objetos.coverage" NAME="Programación orientada a objetos Coverage Results" MODIFIED="1749972666864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 3" />
+    <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$Ejemplos_de_Técnicas_de_Programación__POO_.coverage" NAME="Ejemplos de Técnicas de Programación (POO) Coverage Results" MODIFIED="1749150167804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 2" />
     <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$Dashboard.coverage" NAME="Dashboard Coverage Results" MODIFIED="1752714958800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 8" />
   </component>
 </project>
