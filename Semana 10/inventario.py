@@ -96,3 +96,5 @@ class Inventario:
             print("No hay productos")
         for p in self.lista_productos:
             print(f"Código: {p.codigo}, Nombre: {p.nombre}, Cantidad: {p.cantidad}, Precio: {p.precio}")
+
+#Fin
