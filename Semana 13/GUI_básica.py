@@ -49,4 +49,4 @@ lista.pack(pady=10)
 ventana.mainloop()
 
  #eso es todo!
- #by Enoc Yanez
+ #by Enoc Yanez.
