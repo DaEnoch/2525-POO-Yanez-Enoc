@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="563145e5-53ea-410d-9f21-4b4b6a856dac" name="Changes" comment="Actividad semana 14" />
+    <list default="true" id="563145e5-53ea-410d-9f21-4b4b6a856dac" name="Changes" comment="Actividad semana 15" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +46,7 @@
     "Python.Dashboard.executor": "Run",
     "Python.Dashboard_copia.executor": "Run",
     "Python.Ejemplos de Técnicas de Programación (POO).executor": "Run",
+    "Python.GUI.executor": "Run",
     "Python.GUI_angenda_personal.executor": "Run",
     "Python.GUI_básica.executor": "Run",
     "Python.Porgramación tradicional.executor": "Run",
@@ -112,6 +113,7 @@
       <workItem from="1757151332570" duration="916000" />
       <workItem from="1757902675428" duration="1105000" />
       <workItem from="1758400298200" duration="1266000" />
+      <workItem from="1758848459019" duration="214000" />
     </task>
     <task id="LOCAL-00001" summary="Tarea semana 2">
       <option name="closed" value="true" />
@@ -321,7 +323,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758401513617</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Actividad semana 15">
+      <option name="closed" value="true" />
+      <created>1758848667160</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1758848667160</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -346,7 +356,8 @@
     <MESSAGE value="Actividad semana 12" />
     <MESSAGE value="Actividad semana 13" />
     <MESSAGE value="Actividad semana 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="Actividad semana 14" />
+    <MESSAGE value="Actividad semana 15" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actividad semana 15" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$Porgramación_tradicional.coverage" NAME="Porgramación tradicional Coverage Results" MODIFIED="1749972310737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 3" />
@@ -356,6 +367,7 @@
     <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$sistema_escuela.coverage" NAME="sistema_escuela Coverage Results" MODIFIED="1750293673545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 4 (EjemplosMundoReal_POO)" />
     <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$Dashboard_copia.coverage" NAME="Dashboard_copia Coverage Results" MODIFIED="1752715514574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 8" />
     <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$main_principal.coverage" NAME="main_principal Coverage Results" MODIFIED="1756077497192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 10" />
+    <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$GUI.coverage" NAME="GUI Coverage Results" MODIFIED="1758848622984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 15" />
     <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$Programa.coverage" NAME="Programa Coverage Results" MODIFIED="1751827709084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 6" />
     <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$dashboard_Organizacion.coverage" NAME="dashboard_Organización Coverage Results" MODIFIED="1752962461337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 8" />
     <SUITE FILE_PATH="coverage/2525_POO_Yanez_Enoc$GUI_angenda_personal.coverage" NAME="GUI_angenda_personal Coverage Results" MODIFIED="1758401475352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 14" />
